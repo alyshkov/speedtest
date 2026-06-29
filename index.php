@@ -1,0 +1,1 @@
+<p style="font-size: 3em; text-align: center; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;"><?php print_r($_SERVER['HTTP_HOST']); include 'index-classic.html';?></p>
